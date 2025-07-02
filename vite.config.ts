@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => {
         "localhost",
         "127.0.0.1",
         "0.0.0.0",
-        "thief.en.freevue.dev",
+        "thief-en.freevue.dev",
       ],
     },
     resolve: {
